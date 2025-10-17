@@ -44,4 +44,4 @@ Sección 1 - Inicio
 
 Sección 2 - Opciones
 
-![]()
+![](https://github.com/RafaelAlejandro20/tiempie/blob/d864da632723d7339713ec7ad4619ff76b8d918b/c2.png)
