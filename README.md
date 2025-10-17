@@ -1,2 +1,43 @@
-# tiempie
-Aplicación python con sensores de arduino y interfaz gráfica con customtkinter
+![](https://github.com/RafaelAlejandro20/tiempie/blob/c47cbcecda2badd26b3e4f9f9a49de54245eb658/tempie.png)
+
+# Tiempie
+
+## ¿Qué es Tiempie?
+
+<strong>Tiempie</strong> es una aplicación creada con python para comprobar la temperatura y humedad de un entorno a partir de sensores de arduino, algo que podría facilmente mostrarse con una interfaz gráfica con python y customtkinter para lograrlo
+
+## Ejecución
+
+Para usar el programa, puedes hacerlo de dos maneras:
+
+### Ejecutable
+
+Sino tienes instalado python, puedes usar el ejecutable, el cual puedes descargar externamente por el tamaño en el siguiente enlace, pero eso sí, necesitas de cargar el archivo arduino en tu placa, además de tener los componentes necesarios
+
+#### Enlace
+
+
+
+### Código
+
+Si quieres ver como funciona. puedes usar los archivos y librerías necesarios para lograrlo, además de poder compilar el codigo de arduino en tu placa, además de tener los componentes necesarios para ello
+
+#### Librerías necesarías
+
+Las librerías necesarías las puedes encontrar debajo, tan solo basta copiar y pegar
+
+```
+pip install opencv-contrib-python
+pip install serial
+pip install sqlite3
+pip install imutils
+pip install threadinng
+pip install customtkinter
+pip install pillow
+```
+
+Capturas de pantalla
+
+![]()
+
+![]()
