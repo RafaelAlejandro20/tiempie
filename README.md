@@ -16,7 +16,7 @@ Sino tienes instalado python, puedes usar el ejecutable, el cual puedes descarga
 
 #### Enlace
 
-
+[tiempie.exe](https://drive.google.com/file/d/1e2K8fOrCTO0-M4BQdN7RZ8TN_iwCjK4H/view?usp=sharing)
 
 ### Código
 
