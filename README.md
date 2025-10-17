@@ -38,6 +38,10 @@ pip install pillow
 
 Capturas de pantalla
 
-![]()
+Sección 1 - Inicio
+
+![](https://github.com/RafaelAlejandro20/tiempie/blob/83c2324f23bd1e488fc04628345c00dc7be04efd/c1.png)
+
+Sección 2 - Opciones
 
 ![]()
